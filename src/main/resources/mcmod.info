@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "td",
+    "name": "Tower Defence",
+    "description": "Tower Defence for Minecraft!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "TimVinkemeier"
+    ],
+    "credits": "None yet",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
